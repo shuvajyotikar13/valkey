@@ -1,0 +1,16 @@
+tests/modules/blockedclient.c
+  h_5ce704d7f00a2c 1053-1054,1057,1059-1063,1069-1071,1073
+tests/unit/moduleapi/blockedclient.tcl
+  h_5ce704d7f00a2c 320,323,327-329
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "71ae708609b23252edc3b902789dd37670fac0cd",
+  "prompts": {},
+  "humans": {
+    "h_5ce704d7f00a2c": {
+      "author": "SHUVA JYOTI KAR <shuva.jyoti.kar.87@gmail.com>"
+    }
+  }
+}
